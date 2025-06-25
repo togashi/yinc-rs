@@ -1,0 +1,3 @@
+child1:
+  src: child1.yml
+  value: test

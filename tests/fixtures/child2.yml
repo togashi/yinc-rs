@@ -1,0 +1,3 @@
+child2:
+  src: child2.yml
+  enabled: true

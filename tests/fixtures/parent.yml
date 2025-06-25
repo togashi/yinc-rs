@@ -1,0 +1,4 @@
+a: 1
+b:
+  !include child1.yml
+c: !include child2.yml
