@@ -4,6 +4,8 @@ YAML include processor - Rust implementation
 
 A Rust port of the original Go implementation of `yinc`, providing powerful YAML file composition through include directives.
 
+> **Note**: This project is a Rust port of the original Go implementation available at [https://github.com/togashi/yinc-go](https://github.com/togashi/yinc-go)
+
 ## Features
 
 - **Include Directives**: Process `!include <path>` tags in YAML files
