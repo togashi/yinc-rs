@@ -1,0 +1,2 @@
+test_data: !include data.json
+json_explicit: !include $(json data.json)
